@@ -1,6 +1,6 @@
--  Hi, I’m Ayman 
--  I’m student of BS IT currently in 4th semester. 
--  I’m currently learning C++ ...
+-  Hi, I’m Ayman ,a life long  student 
+-  currently doing BS IT 
+-  learning C++ , java and good grasp on python...
 -  I’m looking to dive deep into Big Data, ML and DS...
 
 <!---
