@@ -1,6 +1,6 @@
--  Hi, I’m Ayman, a life long  student. 
--  currently doing BS IT 
--  learning C++ and good grasp on python...
+-  Hi, I’m Ayman, life long  student. 
+-  Currently doing Bachelors of Science, Data Science
+-  Learning C++ and good grasp on python...
 -  I’m looking to dive deep into Big Data, Database...
 
 <!---
