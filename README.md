@@ -1,7 +1,7 @@
--  Hi, I’m Ayman, life long  student. 
--  Currently doing Bachelors of Science, Information Technology
--  Learning C++ and good grasp on python...
--  I’m looking to dive deep into Big Data, Database...
+-  Hi, I’m Ayman, lifelong  student. 
+-  Currently doing Bachelors of Science, Information Technology.
+-  Good grasp of C++ and Python.
+-  I want to delve deeply into databases and big data.
 
 <!---
 ayman1008/ayman1008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
